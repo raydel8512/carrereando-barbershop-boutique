@@ -14,6 +14,25 @@ body {
 	margin: 0 auto;
 }
 
+.imagenes {
+	padding: 3em 0;
+	background: #FEFEFE;
+	width: 950px;
+	margin: 0 auto;
+	/*border: solid black;*/
+}
+
+.imagenes img {
+	width: 160px;
+	height: 170px;
+	display: inline-block;
+    margin: 0 13px 20px 12px;
+    /*padding: 18px;*/
+	/*border: solid black;*/
+    border-radius: 70px;
+    vertical-align: top;
+}
+
 .titulo-principal {
 	text-align: center;
 	font-size: 2em;
